@@ -4,6 +4,22 @@ This project is a minimal frontend interface for a Lexi-like legal assistant, bu
 ## Objective
 The primary goal was to simulate the core functionality of a legal assistant that provides AI-generated answers linked to verifiable source documents.
 
+## Screenshot and Video demo Link:
+
+<img width="1916" height="1136" alt="Image" src="https://github.com/user-attachments/assets/673d5c89-1dc5-4bc3-8419-3bb19630dc69" />
+
+
+<img width="1903" height="1085" alt="Image" src="https://github.com/user-attachments/assets/f81d6c99-e487-4be2-99a6-80015b757474" />
+
+
+<img width="1909" height="1193" alt="Image" src="https://github.com/user-attachments/assets/74173014-e4bb-44e3-97d6-ddadc379cc40" />
+
+
+Video_demo:
+```
+https://drive.google.com/file/d/1T3YgSIexCmk3NBpwx3kM5eDGuteMKcHc/view?usp=sharing
+```
+
 ## Features
 Ask a Legal Question: A text input area allows users to type in their legal queries.
 
